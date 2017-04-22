@@ -1,0 +1,7 @@
+# cn.Map
+class Hello{
+    public static void main(){
+    System.out.println("Hello World");
+    System.out.println("Hello GitHub");
+    }
+}
